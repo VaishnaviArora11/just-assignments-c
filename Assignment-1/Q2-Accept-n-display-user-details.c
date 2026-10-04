@@ -6,11 +6,6 @@
 //   • Grade (single character) 
 // Display all the entered values clearly using printf().
 
-//PSEUDOCODE : 
-// Create variables
-// print each 
-
-
 
 
 #include <stdio.h>

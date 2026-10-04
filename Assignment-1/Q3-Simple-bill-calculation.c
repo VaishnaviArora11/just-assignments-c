@@ -8,13 +8,6 @@
 //   Total Bill = Price × Quantity 
 
 
-//PSEUDOCODE : 
-// Create variables
-// print each question with their scanf 
-// use a whitespace before %c in scanf 
-// print their outputs 
-
-
 
 #include <stdio.h>
 int main(){
