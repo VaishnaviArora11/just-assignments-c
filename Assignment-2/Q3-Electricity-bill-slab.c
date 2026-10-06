@@ -13,3 +13,16 @@
 
 
 #include <stdio.h>
+int main(){
+    int units, rate;
+    printf("Enter Units consumed : ");
+    scanf("%d", &units);
+    if(units >= 0 && units <= 100){
+        rate = 2;
+    } else if (units >= 101 && units <= 200){
+        rate = 3;
+    } else if (units > 200){
+        rate = 5;
+    }
+    printf("Total Bill : %d", units * rate);
+}
