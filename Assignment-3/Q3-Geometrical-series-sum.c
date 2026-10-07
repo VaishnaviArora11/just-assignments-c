@@ -1,4 +1,4 @@
-//                                     Question 2 : Factorial of a Number 
+//                                     Question 3 : Geometrical Series Sum 
  
 // Given the first term a, the common ratio r, and the number of terms n of a geometric series, return the sum of its first n terms: 
 //   a + a·r + a·r² + ... + a·r^(n-1) 
