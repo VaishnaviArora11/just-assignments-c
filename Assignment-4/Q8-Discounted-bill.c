@@ -10,7 +10,7 @@ int main(){
     int itemno, quantity;
     float unitPrice;
     scanf("%d %d %f", &itemno, &quantity, &unitPrice);
-    printf("The Total Bill for item no %d is :%f", itemno, billTotal(quantity, unitPrice));
+    printf("The Total Bill for item no %d is : %f", itemno, billTotal(quantity, unitPrice));
 }
 
 float billTotal(int quantity, float unitPrice){
