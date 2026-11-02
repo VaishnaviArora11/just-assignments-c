@@ -6,15 +6,15 @@
 
 #include <stdio.h>
 
-void evenOdd(int a);
+void numberOfDevices(int a);
 
 int main(){
     int a;
     scanf("%d", &a);
-    evenOdd(a);
+    numberOfDevices(a);
 }
 
-void evenOdd(int a){
+void numberOfDevices(int a){
     if (a % 2 == 0){
         printf("Even");
     } else {
